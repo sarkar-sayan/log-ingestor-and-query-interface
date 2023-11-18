@@ -26,15 +26,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Log Ingestor and Query Interface</h3>
+<h2 align="center">Log Ingestor and Query Interface</h2>
 
   <p align="center">
     Develop a log ingestor system that can efficiently handle vast volumes of log data, and offer a simple interface for querying this data using full-text search or specific field filters. Both the systems (the log ingestor and the query interface) can be built using any programming language of your choice. The logs should be ingested (in the log ingestor) over HTTP, on port `3000`.
